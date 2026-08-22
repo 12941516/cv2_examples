@@ -29,6 +29,8 @@ setup(
             'gaussian = cv2_examples.gaussian:main',
             'hsv = cv2_examples.hsv:main',
             'moments = cv2_examples.moments:main',
+            'perspective = cv2_examples.perspective:main',
+            'morphology = cv2_examples.morphology:main',
         ],
     },
 )
