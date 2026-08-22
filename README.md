@@ -1,2 +1,2 @@
-# cv2_examples
-Repository for AJOU Univ. ATOM Practice
+# 2026년도 8월 구미전자공고 ROS2 실습 패키지입니다
+## 작성자 : 12941516(tesla0131@ajou.ac.kr)
